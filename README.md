@@ -16,6 +16,7 @@
 > JavaScript
 > HTML
 > CSS
+
 my toolset allows me to tackle any project that comes my way. 🛠️
 
 ## 💬 Let's Connect 💬
