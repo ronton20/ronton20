@@ -9,7 +9,14 @@
 
 ## 🛠️ My Toolset: 🛠️
 - VScode as my go-to code editor for its speed, simplicity, and extensibility. 🗒️
-- Proficient in Java, C, C++, JavaScript, HTML, and CSS, my toolset allows me to tackle any project that comes my way. 🛠️
+- Proficient in: 
+> Java
+> C
+> C++
+> JavaScript
+> HTML
+> CSS
+my toolset allows me to tackle any project that comes my way. 🛠️
 
 ## 💬 Let's Connect 💬
 If you want to reach out, whether for a chat, for a collaboration or for a cup of coffee, hit me up at ronamarSE@gmail.com 📫
