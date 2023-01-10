@@ -10,12 +10,12 @@
 ## 🛠️ My Toolset: 🛠️
 - VScode as my go-to code editor for its speed, simplicity, and extensibility. 👾
 - Proficient in: 
-> ![](https://i.imgur.com/java.png)
-> ![](https://i.imgur.com/c.png)
-> ![](https://i.imgur.com/c++.png)
-> ![](https://i.imgur.com/javascript.png)
-> ![](https://i.imgur.com/html.png)
-> ![](https://i.imgur.com/css.png)
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
 ## 💬 Let's Connect 💬
 If you want to reach out, whether for a chat, for a collaboration or for a cup of coffee, hit me up at ronamarSE@gmail.com 📫
