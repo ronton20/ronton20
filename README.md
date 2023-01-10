@@ -10,12 +10,12 @@
 ## 🛠️ My Toolset: 🛠️
 - VScode as my go-to code editor for its speed, simplicity, and extensibility. 👾
 - Proficient in: 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20px" width="20px"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="20px" width="20px"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="20px" width="20px"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="20px" width="20px"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="20px" width="20px"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="20px" width="20px"/>
 
 ## 💬 Let's Connect 💬
 If you want to reach out, whether for a chat, for a collaboration or for a cup of coffee, hit me up at ronamarSE@gmail.com 📫
