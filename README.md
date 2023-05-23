@@ -1,4 +1,4 @@
-# Ron Amar - Software Engineer in the Making
+# Ron Ariel - Software Engineer in the Making
 
 👋 Hi there! I'm Ron, a 3rd year software engineering student on a quest to master the art of software development. With a keen interest in web development and design, I'm constantly pushing the boundaries of what's possible to create beautiful, intuitive, and functional web applications.
 
