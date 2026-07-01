@@ -1,24 +1,22 @@
-# Ron Ariel - Software Engineer in the Making
+### Hi there, I'm Ron Ariel 👋
 
-👋 Hi there! I'm Ron, a 3rd year software engineering student on a quest to master the art of software development. With a keen interest in web development and design, I'm constantly pushing the boundaries of what's possible to create beautiful, intuitive, and functional web applications.
+I'm a Senior Software & Automation Engineer with a deep background in CI/CD infrastructure, scalable testing frameworks, and system architecture. 
 
-## 🔥 What I'm currently up to: 🔥
-- Immersing myself in the world of React.js and Node.js to build fast and efficient full-stack web apps. 💻
-- Learning how to integrate databases and APIs to create powerful and dynamic web applications. 🔥
-- Exploring new technologies and techniques to stay ahead of the curve. 🚀
+More importantly: I'm a lifelong gamer who went into software engineering specifically to create games. I spend my days building robust infrastructure and optimizing deployment pipelines, and my time outside of work building in Unity.
 
-## 🛠️ My Toolset: 🛠️
-- VScode as my go-to code editor for its speed, simplicity, and extensibility. 👾
-- Proficient in: 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30px" width="30px"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30px" width="30px"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30px" width="30px"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30px" width="30px"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30px" width="30px"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30px" width="30px"/>
+I'm currently looking to transition fully into the games industry as a **Unity Developer or Software Engineer**.
 
-## 💬 Let's Connect 💬
-If you want to reach out, whether for a chat, for a collaboration or for a cup of coffee, hit me up at ronamarSE@gmail.com 📫
-I am always open to new opportunities and challenges, and I would love to hear from you! 🤝
+#### 🛠️ Tech Stack
+*   **Game Development:** Unity 2D, C#, AI API Integration (Gemini)
+*   **Languages:** TypeScript, C#, Java, C++
+*   **Infrastructure & CI/CD:** Jenkins, Docker, Linux, ReportPortal
+*   **Testing & Automation:** Playwright, Selenium, API Testing
 
+#### 🎮 Featured Game Project
+*   **[AI Realms](Replace-with-Link-to-Repo):** A 2D RPG built in Unity that utilizes the Gemini API to dynamically generate story elements, dialogue, and quests on the fly. Check out the repo to see how I handled asynchronous API calls without locking the Unity main thread!
 
+#### ⚡ When I'm not coding...
+You can usually find me analyzing the mechanics of action RPGs and MMOs, exploring high-performance PC hardware, or building custom LEGO sets. 
+
+#### 📫 Let's Connect
+*   [LinkedIn](https://www.linkedin.com/in/ron-ariel-991126229/)
