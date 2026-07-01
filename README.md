@@ -13,7 +13,7 @@ I'm currently looking to transition fully into the games industry as a **Unity D
 *   **Testing & Automation:** Playwright, Selenium, API Testing
 
 #### 🎮 Featured Game Project
-*   **[AI Realms](Replace-with-Link-to-Repo):** A 2D RPG built in Unity that utilizes the Gemini API to dynamically generate story elements, dialogue, and quests on the fly. Check out the repo to see how I handled asynchronous API calls without locking the Unity main thread!
+*   **[AI Realms](https://github.com/ronton20/AI-Realms):** A 2D RPG built in Unity that utilizes the Gemini API to dynamically generate story elements, dialogue, and quests on the fly. Check out the repo to see how I handled asynchronous API calls without locking the Unity main thread!
 
 #### ⚡ When I'm not coding...
 You can usually find me analyzing the mechanics of action RPGs and MMOs, exploring high-performance PC hardware, or building custom LEGO sets. 
